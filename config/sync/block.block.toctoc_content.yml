@@ -1,0 +1,22 @@
+uuid: 81bc039a-a652-40b6-81bb-a88b6aaf17f1
+langcode: fr
+status: true
+dependencies:
+  module:
+    - system
+  theme:
+    - toctoc
+_core:
+  default_config_hash: erQSEZF2XUjNmgTl0uNRBzmg18ZGXwUcw2FhApoeuHk
+id: toctoc_content
+theme: toctoc
+region: content
+weight: -4
+provider: null
+plugin: system_main_block
+settings:
+  id: system_main_block
+  label: 'Contenu de la page principale'
+  label_display: '0'
+  provider: system
+visibility: {  }

@@ -1,0 +1,16 @@
+uuid: 4fcbf10a-faf7-47e3-a6cf-e78f0aae7547
+langcode: fr
+status: true
+dependencies:
+  module:
+    - profile
+  enforced:
+    module:
+      - commerce_order
+_core:
+  default_config_hash: yeGwCxbA5dBAS_3eBkfaVrbxkASEM357dkjPZShKiR4
+id: profile.billing
+label: Facturation
+description: ''
+targetEntityType: profile
+cache: true

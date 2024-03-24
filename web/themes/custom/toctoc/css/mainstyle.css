@@ -1,0 +1,61 @@
+/* nav css info*/
+.toctoc-header {
+    display: flex;
+    padding-bottom: 20px;
+    padding-top: 5px;
+    padding-left: 5px;
+    padding-right: 50px;
+    background-color: transparent;
+}
+.toctoc-header nav {
+    display: inline-block;
+    display: flex;
+    align-items: center;
+    background-color: burlywood;
+}
+.cart-block--summary__count {
+    margin-left: 1400px;
+}
+img {
+    width: 85px;
+    height: 45px;
+}
+adress {
+    display: none;
+}
+
+main {
+    padding-bottom: 20px;
+    padding-top: 5px;
+    padding-left: 5px;
+    padding-right: 50px;
+    background-color: transparent;
+}
+
+.nav-gauche {
+padding-left: 300px;
+justify-content: space-between;
+}
+.liens-nav-gauche {
+    margin-right: 30px;
+}
+.search {
+    padding-left: 800px;
+    margin-top: 2px;
+}
+.search, .panier {
+    margin-left: 30px;
+}
+a {
+    text-decoration: none;
+    font-family:'Roboto', sans-serif;
+    color: black;
+    font-size: 1.1em;
+    font-weight: bold;
+    
+}
+.liens-nav-gauche:hover , .panier:hover {
+    color: rgba(0, 0, 0, 0.7);
+}
+
+

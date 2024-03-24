@@ -1,0 +1,11 @@
+name: toctoc
+type: theme
+description: '...'
+core_version_requirement: '^10'
+libraries:
+  - toctoc/global-styling
+base theme: stable9
+regions:
+  header: 'Header'
+  content: 'Content'
+  footer: 'Footer'

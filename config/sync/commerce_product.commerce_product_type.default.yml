@@ -1,0 +1,16 @@
+uuid: 52a6da7a-e2bb-4b64-95e7-a9c701046605
+langcode: fr
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: hwJoqnxqBS0fPM3s6FccZ2bWaq9LneRYLzFk-wlJWjs
+id: default
+label: 'Par défaut'
+traits: {  }
+locked: false
+description: ''
+variationType: default
+variationTypes:
+  - default
+multipleVariations: true
+injectVariationFields: true

@@ -1,0 +1,16 @@
+uuid: f62864c0-33b8-4795-88ce-f8f17fad183e
+langcode: fr
+status: true
+dependencies:
+  module:
+    - profile
+  enforced:
+    module:
+      - profile
+_core:
+  default_config_hash: jjClImKlBhvh__KZnX6YkW_Kc1yZvqXODbUHt30A8z4
+id: profile_publish_action
+label: 'Publier le profil sélectionné'
+type: profile
+plugin: 'entity:publish_action:profile'
+configuration: {  }

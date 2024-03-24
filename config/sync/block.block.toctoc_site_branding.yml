@@ -1,0 +1,25 @@
+uuid: 6434cf09-bab2-4237-bdc1-70df8525ccfb
+langcode: fr
+status: true
+dependencies:
+  module:
+    - system
+  theme:
+    - toctoc
+_core:
+  default_config_hash: n_nlgjggHVfQt2H__zvLOKB2YtjPDbQ5tHijF9LE1aM
+id: toctoc_site_branding
+theme: toctoc
+region: header
+weight: 1
+provider: null
+plugin: system_branding_block
+settings:
+  id: system_branding_block
+  label: 'Identité du site'
+  label_display: '0'
+  provider: system
+  use_site_logo: true
+  use_site_name: false
+  use_site_slogan: false
+visibility: {  }

@@ -1,0 +1,8 @@
+uuid: edada28a-f499-4417-a3bf-283e3dbfac5a
+langcode: fr
+status: true
+dependencies: {  }
+id: menu-1
+label: 'menu 1'
+description: test
+locked: false

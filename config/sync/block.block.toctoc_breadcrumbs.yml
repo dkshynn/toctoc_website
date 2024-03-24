@@ -1,0 +1,22 @@
+uuid: 8b95d1dd-e52e-4b46-8bdf-fdc8d2897522
+langcode: fr
+status: true
+dependencies:
+  module:
+    - system
+  theme:
+    - toctoc
+_core:
+  default_config_hash: VhBzWb7lMRtIOg9G7VSw_0uopi-7zXeHq4vXqqV1HFE
+id: toctoc_breadcrumbs
+theme: toctoc
+region: content
+weight: -5
+provider: null
+plugin: system_breadcrumb_block
+settings:
+  id: system_breadcrumb_block
+  label: "Fils d'ariane"
+  label_display: '0'
+  provider: system
+visibility: {  }

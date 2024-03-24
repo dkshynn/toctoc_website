@@ -1,0 +1,9 @@
+article: 
+  css:
+    theme:
+      css/article/article.css: {}
+
+global-styling:
+  css:
+    theme:
+      css/mainstyle.css: {}
